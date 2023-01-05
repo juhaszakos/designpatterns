@@ -5,3 +5,17 @@ designpatterns/.idea/*
 /designpatterns/gradle/wrapper/gradle-wrapper.properties
 /designpatterns/gradlew
 /designpatterns/gradlew.bat
+/designpatterns/.gradle/buildOutputCleanup/buildOutputCleanup.lock
+/designpatterns/.gradle/buildOutputCleanup/cache.properties
+/designpatterns/.gradle/7.5.1/checksums/checksums.lock
+/designpatterns/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock
+/designpatterns/.gradle/7.5.1/executionHistory/executionHistory.bin
+/designpatterns/.gradle/7.5.1/executionHistory/executionHistory.lock
+/designpatterns/.gradle/file-system.probe
+/designpatterns/.gradle/7.5.1/fileHashes/fileHashes.bin
+/designpatterns/.gradle/7.5.1/fileHashes/fileHashes.lock
+/designpatterns/.gradle/7.5.1/dependencies-accessors/gc.properties
+/designpatterns/.gradle/7.5.1/gc.properties
+/designpatterns/.gradle/vcs-1/gc.properties
+/designpatterns/.gradle/7.5.1/fileChanges/last-build.bin
+/designpatterns/.gradle/buildOutputCleanup/outputFiles.bin
