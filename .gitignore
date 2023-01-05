@@ -19,3 +19,5 @@ designpatterns/.idea/*
 /designpatterns/.gradle/vcs-1/gc.properties
 /designpatterns/.gradle/7.5.1/fileChanges/last-build.bin
 /designpatterns/.gradle/buildOutputCleanup/outputFiles.bin
+/designpatterns/**/*.class
+/designpatterns/**/*.bin
