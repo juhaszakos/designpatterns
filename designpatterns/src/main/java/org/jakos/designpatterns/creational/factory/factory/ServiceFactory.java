@@ -10,7 +10,9 @@ import java.security.InvalidParameterException;
 
 public class ServiceFactory {
 
-    public final BaseService getService(ServiceType serviceType) {
+    private ServiceFactory() {}
+
+    public static BaseService getService(ServiceType serviceType) {
 
         switch (serviceType) {
             case CAT:
