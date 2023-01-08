@@ -1,9 +1,9 @@
 package org.jakos.designpatterns.creational.factory.factory;
 
-import org.jakos.designpatterns.creational.factory.objects.BaseService;
-import org.jakos.designpatterns.creational.factory.objects.CatService;
-import org.jakos.designpatterns.creational.factory.objects.DogService;
-import org.jakos.designpatterns.creational.factory.objects.MouseService;
+import org.jakos.designpatterns.creational.factory.services.BaseService;
+import org.jakos.designpatterns.creational.factory.services.CatService;
+import org.jakos.designpatterns.creational.factory.services.DogService;
+import org.jakos.designpatterns.creational.factory.services.MouseService;
 import org.jakos.designpatterns.creational.factory.util.ServiceType;
 
 import java.security.InvalidParameterException;

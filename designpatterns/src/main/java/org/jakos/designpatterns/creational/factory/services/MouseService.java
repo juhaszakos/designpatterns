@@ -1,4 +1,4 @@
-package org.jakos.designpatterns.creational.factory.objects;
+package org.jakos.designpatterns.creational.factory.services;
 
 public class MouseService implements BaseService{
     @Override
