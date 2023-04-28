@@ -21,3 +21,10 @@ designpatterns/.idea/*
 /designpatterns/.gradle/buildOutputCleanup/outputFiles.bin
 /designpatterns/**/*.class
 /designpatterns/**/*.bin
+/.idea/compiler.xml
+/.idea/modules/designpatterns.designpatterns.main.iml
+/.idea/gradle.xml
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/workspace.xml
